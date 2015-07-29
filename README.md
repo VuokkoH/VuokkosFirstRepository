@@ -4,6 +4,3 @@ Getting started with GitHub :)
 
 Hello world
 
-
-
-rtrtret
